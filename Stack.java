@@ -2,6 +2,7 @@ public class Stack {
     // Stack properties
     private final int length;
     private final int[] stack;
+    
     private int storage = 0;
 
     // Stack of constructors
