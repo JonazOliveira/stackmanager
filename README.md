@@ -1,3 +1,3 @@
 # stackmanager
 
-A class stack manager
+A class stack manager!
